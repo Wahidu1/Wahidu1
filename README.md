@@ -54,7 +54,7 @@ I’m a **backend-focused developer** passionate about building **scalable, secu
 
 ## 📬 Let’s Connect
 <p align="center">
-  <a href="https://linkedin.com">
+  <a href="https://www.linkedin.com/in/wahidul-226-islam/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
