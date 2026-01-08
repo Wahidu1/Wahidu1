@@ -1,45 +1,66 @@
-# 👋 Hi, I'm Wahid
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Wahid</h1>
+<h3 align="center">Backend Developer | Django & Django REST Framework</h3>
 
-🚀 **Backend Developer** | Django & Django Rest Framework  
-💡 Passionate about building scalable, reliable backend systems
+<p align="center">
+  <a href="https://github.com/Wahidu1">
+    <img src="https://img.shields.io/badge/GitHub-Wahidu1-181717?style=flat&logo=github" />
+  </a>
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin" />
+  </a>
+</p>
 
 ---
 
-## 🧑‍💻 About Me
-- 🔧 Backend development with **Django & DRF**
-- 🔌 Designing clean, secure **REST APIs**
-- 🗄️ Experience with **PostgreSQL**, **Redis**
+## 🚀 About Me
+I’m a **backend-focused developer** passionate about building **scalable, secure, and maintainable systems**.
+
+- 🧠 Strong in **Django & Django REST Framework**
+- 🔗 Designing clean and efficient **REST APIs**
+- 🗄️ Working with **PostgreSQL & Redis**
 - 🐳 Using **Docker** for development & deployment
 - 📊 **1,100+ GitHub contributions in the last year**
-- 🌱 Always learning and improving
+- 🔁 Consistency-driven developer
 
 ---
 
 ## 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django)
-![DRF](https://img.shields.io/badge/DRF-ff1709?style=flat)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,postgres,redis,docker,git,linux" />
+</p>
 
 ---
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+## 📈 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Wahidu1&show_icons=true&theme=transparent" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wahidu1&theme=transparent" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wahidu1&layout=compact&theme=transparent" height="140" />
+</p>
 
 ---
 
-## 🔥 Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)
+## 🧩 What I Focus On
+- Clean backend architecture
+- API performance & security
+- Real-world problem solving
+- Writing readable, scalable code
 
 ---
 
-## 📫 Connect With Me
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-- 💻 GitHub: https://github.com/YOUR_USERNAME
+## 📬 Let’s Connect
+<p align="center">
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
 
 ---
 
-⭐ *Consistency beats intensity. Building every day.*
+<p align="center">
+  <i>Small commits. Big impact.</i>
+</p>
