@@ -33,13 +33,26 @@ I’m a **backend-focused developer** passionate about building **scalable, secu
 ---
 
 ## 📈 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wahidu1&show_icons=true&theme=transparent" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wahidu1&theme=transparent" height="165" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Wahidu1&show_icons=true&hide_title=true"
+    alt="GitHub Stats"
+    height="165"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=Wahidu1"
+    alt="GitHub Streak"
+    height="165"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wahidu1&layout=compact&theme=transparent" height="140" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wahidu1&layout=compact"
+    alt="Top Languages"
+    height="140"
+  />
 </p>
 
 ---
