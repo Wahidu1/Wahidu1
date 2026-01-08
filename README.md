@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hi, I'm Wahid
 
-<!--
-**Wahidu1/Wahidu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Backend Developer** | Django & Django Rest Framework  
+💡 Passionate about building scalable, reliable backend systems
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+- 🔧 Backend development with **Django & DRF**
+- 🔌 Designing clean, secure **REST APIs**
+- 🗄️ Experience with **PostgreSQL**, **Redis**
+- 🐳 Using **Docker** for development & deployment
+- 📊 **1,100+ GitHub contributions in the last year**
+- 🌱 Always learning and improving
+
+---
+
+## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django)
+![DRF](https://img.shields.io/badge/DRF-ff1709?style=flat)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
+
+---
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+---
+
+## 🔥 Contribution Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)
+
+---
+
+## 📫 Connect With Me
+- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+- 💻 GitHub: https://github.com/YOUR_USERNAME
+
+---
+
+⭐ *Consistency beats intensity. Building every day.*
