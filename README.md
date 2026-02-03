@@ -6,7 +6,7 @@
   <a href="https://github.com/Wahidu1">
     <img src="https://img.shields.io/badge/GitHub-Wahidu1-181717?style=flat&logo=github" />
   </a>
-  <a href="https://linkedin.com">
+  <a href="https://www.linkedin.com/in/wahidul-226-islam/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin" />
   </a>
 </p>
